@@ -1,4 +1,4 @@
-# 📊 AtliQ Finance Analytics Project
+# 📊 Analysis and Insights on Consumer Goods data
 
 Welcome to the **AtliQ Finance Analytics** project repository!
 This project dives deep into SQL-based business intelligence using real-world sales and finance data to deliver powerful, data-driven insights. 🚀
