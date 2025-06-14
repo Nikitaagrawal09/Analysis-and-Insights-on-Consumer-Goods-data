@@ -26,7 +26,7 @@ AtliQ Hardware wanted to:
 
 ## 🎯 Task
 
-Your goal was to extract, transform, and analyze transactional and master data from multiple SQL tables to:
+My goal was to extract, transform, and analyze transactional and master data from multiple SQL tables to:
 
 * Build end-to-end queries for **gross and net sales analysis**
 * Join product, customer, and pricing dimensions
